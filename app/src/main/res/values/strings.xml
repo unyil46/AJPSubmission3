@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movies - TV Shows</string>
+    <string name="title_activity_detail_movies">Detail Movie</string>
+    <string name="movies">Movies</string>
+    <string name="tvshows">TV Shows</string>
+    <string name="title">Title</string>
+    <string name="description">Overview</string>
+    <string name="overview_movie">Movie Overview</string>
+    <string name="title_activity_detail_tv_show">Detail Movie - TV Show</string>
+    <string name="rate_movie">Rate Movie</string>
+</resources>
